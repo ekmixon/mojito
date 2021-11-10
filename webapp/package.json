@@ -39,7 +39,7 @@
     "babel-register": "^6.24.1",
     "css-loader": "^3.0.0",
     "file-loader": "^0.11.2",
-    "html-webpack-plugin": "^2.29.0",
+    "html-webpack-plugin": "^4.0.0",
     "image-webpack-loader": "^6.0.0",
     "json-loader": "^0.5.4",
     "kind-of": "^6.0.3",
@@ -48,9 +48,9 @@
     "node-sass": "^4.13.1",
     "sass-loader": "^6.0.7",
     "style-loader": "^0.18.2",
-    "uglify-js": "^2.8.29",
+    "uglify-js": "^3.14.3",
     "url-loader": "^0.6.2",
-    "webpack": "^2.6.1"
+    "webpack": "^3.0.0"
   },
   "scripts": {
     "start-dev": "npm run start-server & npm run watch",
