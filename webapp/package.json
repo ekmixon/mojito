@@ -37,7 +37,7 @@
     "babel-preset-react": "^6.24.1",
     "babel-preset-stage-0": "^6.24.1",
     "babel-register": "^6.24.1",
-    "css-loader": "^3.0.0",
+    "css-loader": "^5.0.0",
     "file-loader": "^0.11.2",
     "html-webpack-plugin": "^2.29.0",
     "image-webpack-loader": "^6.0.0",
